@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Fine-Tuning Large Language Models (LLMs)",
+    "description": "Fine-tuned various open-source LLMs including GPT2, Falcon, Qwen, and vision language models for domain-specific tasks. Implemented efficient fine-tuning techniques and optimization strategies.",
+    "tags": ["Python", "LLMs", "Transformers", "Deep Learning"],
+    "image": "/images/projects/llm-finetuning.jpg",
+    "github": "https://github.com/mayank/llm-finetuning",
+    "liveUrl": "https://llm-finetuning-demo.com",
+    "blogUrl": "https://blog.mayank.com/llm-finetuning"
+  },
+  {
+    "title": "Large Language Model (LLM) from Scratch",
+    "description": "Implemented a Large Language Model from scratch by covering every step from data preparation to pretrained model fine-tuning. Deep dive into attention mechanisms and transformer architecture.",
+    "tags": ["Python", "Deep Learning", "Attention", "NLP"],
+    "image": "/images/projects/llm-scratch.jpg",
+    "github": "https://github.com/mayank/llm-from-scratch",
+    "liveUrl": "",
+    "blogUrl": "https://blog.mayank.com/llm-scratch"
+  },
+  {
+    "title": "US Visa Approval Prediction using MLOps",
+    "description": "Built an end-to-end MLOps pipeline to predict the approval status of US visa applications with automated deployment. Integrated CI/CD, containerization, and monitoring.",
+    "tags": ["MLOps", "Docker", "AWS", "Machine Learning"],
+    "image": "/images/projects/visa-prediction.jpg",
+    "github": "https://github.com/mayank/visa-prediction",
+    "liveUrl": "https://visa-prediction-app.com",
+    "blogUrl": ""
+  },
+  {
+    "title": "Interactive ML Algorithm Visualizer",
+    "description": "An interactive web application to help users understand and experiment with machine learning algorithms. Provides real-time visualizations and parameter adjustments.",
+    "tags": ["React", "D3.js", "ML", "Web Development"],
+    "image": "/images/projects/ml-visualizer.jpg",
+    "github": "https://github.com/mayank/ml-visualizer",
+    "liveUrl": "https://ml-visualizer.com",
+    "blogUrl": ""
+  },
+  {
+    "title": "Network Security - Malicious URL Detection using MLOps",
+    "description": "Developed an end-to-end MLOps project to detect malicious URLs using ML techniques. Implemented robust pipelines for data ingestion, model training, and deployment.",
+    "tags": ["MLOps", "Security", "Machine Learning", "Data Science"],
+    "image": "/images/projects/url-detection.jpg",
+    "github": "https://github.com/mayank/url-detection",
+    "liveUrl": "",
+    "blogUrl": "https://blog.mayank.com/url-detection"
+  },
+  {
+    "title": "Customer Satisfaction Prediction using ZenML",
+    "description": "Predicted customer satisfaction scores for future orders using historical e-commerce data. Leveraged multiple ML models like CatBoost and LightGBM within ZenML pipeline.",
+    "tags": ["ZenML", "MLOps", "Machine Learning", "Analytics"],
+    "image": "/images/projects/customer-satisfaction.jpg",
+    "github": "https://github.com/mayank/customer-satisfaction",
+    "liveUrl": "https://customer-satisfaction-app.com",
+    "blogUrl": ""
+  },
+  {
+    "title": "Finetuning LLMs: Production Solution",
+    "description": "Created a production-ready solution for fine-tuning Large Language Models. Implemented parameter-efficient methods and scaled the system for enterprise use.",
+    "tags": ["LLMs", "Production", "Python", "MLOps"],
+    "image": "/images/projects/llm-production.jpg",
+    "github": "https://github.com/mayank/llm-production",
+    "liveUrl": "https://llm-production.com",
+    "blogUrl": "https://blog.mayank.com/llm-production"
+  },
+  {
+    "title": "Deep Learning from Scratch",
+    "description": "Comprehensive implementation of deep learning concepts and neural networks. Built models from the ground up using NumPy and TensorFlow.",
+    "tags": ["Deep Learning", "NumPy", "TensorFlow", "Python"],
+    "image": "/images/projects/deep-learning.jpg",
+    "github": "https://github.com/mayank/deep-learning",
+    "liveUrl": "",
+    "blogUrl": ""
+  },
+  {
+    "title": "RAG-based Chatbot System",
+    "description": "Built a Retrieval-Augmented Generation chatbot system integrating vector databases and LLMs. Enables semantic search and context-aware responses.",
+    "tags": ["LLMs", "RAG", "Vector DB", "NLP"],
+    "image": "/images/projects/rag-chatbot.jpg",
+    "github": "https://github.com/mayank/rag-chatbot",
+    "liveUrl": "https://rag-chatbot.com",
+    "blogUrl": ""
+  },
+  {
+    "title": "Time Series Forecasting with LSTM",
+    "description": "Developed LSTM-based models for financial time series forecasting. Implemented data preprocessing, model training, and evaluation pipelines.",
+    "tags": ["LSTM", "Time Series", "TensorFlow", "Analytics"],
+    "image": "/images/projects/time-series.jpg",
+    "github": "https://github.com/mayank/time-series",
+    "liveUrl": "",
+    "blogUrl": "https://blog.mayank.com/time-series"
+  },
+  {
+    "title": "Computer Vision: Object Detection",
+    "description": "Implemented state-of-the-art object detection models using YOLO and Faster R-CNN. Created end-to-end pipeline with data augmentation and model optimization.",
+    "tags": ["Computer Vision", "YOLO", "PyTorch", "Deep Learning"],
+    "image": "/images/projects/object-detection.jpg",
+    "github": "https://github.com/mayank/object-detection",
+    "liveUrl": "",
+    "blogUrl": ""
+  },
+  {
+    "title": "NLP: Sentiment Analysis Pipeline",
+    "description": "Built production-grade sentiment analysis pipeline using transformers. Includes data preprocessing, model fine-tuning, and API deployment.",
+    "tags": ["NLP", "Transformers", "Sentiment Analysis", "FastAPI"],
+    "image": "/images/projects/sentiment-analysis.jpg",
+    "github": "https://github.com/mayank/sentiment-analysis",
+    "liveUrl": "https://sentiment-analysis-api.com",
+    "blogUrl": "https://blog.mayank.com/sentiment"
+  }
+]

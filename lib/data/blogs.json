@@ -1,0 +1,52 @@
+[
+  {
+    "date": "4/30/2025",
+    "title": "From Words to Vectors: Understanding Word Embeddings in NLP",
+    "blogUrl": "https://blog.mayank.com/word-embeddings"
+  },
+  {
+    "date": "4/23/2025",
+    "title": "Advanced RAG: Enhancing Retrieval with Parallel Queries and Reciprocal Rank Fusion",
+    "blogUrl": "https://blog.mayank.com/advanced-rag"
+  },
+  {
+    "date": "4/23/2025",
+    "title": "Prompt Engineering: Mastering Chain-of-Thought, HyDE, and Step-Back Techniques",
+    "blogUrl": "https://blog.mayank.com/prompt-engineering"
+  },
+  {
+    "date": "4/23/2025",
+    "title": "Introduction to RAG for beginners",
+    "blogUrl": "https://blog.mayank.com/rag-beginners"
+  },
+  {
+    "date": "3/27/2025",
+    "title": "The need of Attention Mechanism",
+    "blogUrl": "https://blog.mayank.com/attention-mechanism"
+  },
+  {
+    "date": "3/18/2025",
+    "title": "Journey of a single token through the LLM Architecture",
+    "blogUrl": "https://blog.mayank.com/token-journey"
+  },
+  {
+    "date": "3/10/2025",
+    "title": "Fine-tuning vs Few-shot Learning: When to Use Each Approach",
+    "blogUrl": "https://blog.mayank.com/finetuning-vs-few-shot"
+  },
+  {
+    "date": "2/28/2025",
+    "title": "Building Production MLOps Pipelines: Best Practices and Tools",
+    "blogUrl": "https://blog.mayank.com/mlops-pipelines"
+  },
+  {
+    "date": "2/15/2025",
+    "title": "Understanding Transformers: A Deep Dive into Self-Attention",
+    "blogUrl": "https://blog.mayank.com/transformers-attention"
+  },
+  {
+    "date": "2/01/2025",
+    "title": "Deploying ML Models at Scale: Challenges and Solutions",
+    "blogUrl": "https://blog.mayank.com/deployment-scale"
+  }
+]
