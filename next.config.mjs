@@ -9,6 +9,7 @@ const nextConfig = {
   },
   basePath: '/newsite',
   assetPrefix: '/newsite',
+   trailingSlash: true,
 }
 
 export default nextConfig
